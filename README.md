@@ -1,5 +1,6 @@
 - 👋 Hi, I’m Zulhelmi also known as @Matt-ctrl on github
-- 👀 I’m interested in Nodejs, Socket.io React native (anything related to js or typescript)
+- Currently a PhD student at Universiti Teknologi Malaysia
+- 👀 I’m interested in Nodejs, Socket.io React native (anything related to js or typescript), DL/ML related.
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me by my email hzhelmi50@gmail.com
